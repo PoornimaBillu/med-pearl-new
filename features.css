@@ -1,0 +1,45 @@
+.fh{
+    color: #172755;
+    font-size: 38px;
+    font-weight: 700;
+    text-align: center;
+}
+.fp{
+    color:#8794ba;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-left: 7rem;
+    margin-right: 7rem;
+}
+.features{
+    display: flex;
+    margin-top: 7rem;
+}
+.size2{
+    width: 4rem;
+    height: 4rem;
+    margin-left: 3rem;
+    margin-right: 4rem;
+}
+.size3{
+    width: 4rem;
+    height: 4rem;
+    
+}
+.size1{
+    width: 4rem;
+    height: 4rem;
+    align-items: center;
+    justify-self: center;
+    
+}
+.svf{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-shrink: inherit;
+    margin-left: 10rem;
+    margin-right: 4rem;
+    gap: 10px;
+}
+

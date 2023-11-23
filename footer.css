@@ -1,0 +1,58 @@
+
+.beforefooterpage{
+    display: flex;
+    margin-top: 70px;
+    margin-bottom: 80px;
+    
+}
+.beforefooterpageHead{
+    color:#172755;
+    font-size: 24px;
+    margin-left: 10rem;
+
+}
+.beforefooterpageBtn{
+    background-color: #2177b5;
+    color: white;
+    border-radius: 3px;
+    margin-left: 70px;
+    padding: 4px 3rem;
+    border: none;
+    
+}
+
+.main{
+    background-color: #0a224a;
+    height: 300px;
+    color:white;
+    margin-bottom: 20px;
+    display: flex;
+
+    
+    
+}
+.imgone{
+    margin-left: 90px;
+    margin-top: 60px;
+    color:#8d96a6;
+    background-color:none;
+    height: 40px;
+    width: 110px;
+}
+
+.anchor{
+    color:#8d96a6;
+    text-decoration: none;
+    
+    margin-left: 40px;
+    
+    
+}
+.menu{
+    margin-top: -20px;
+    margin-right: 10px;
+    margin-left: 570px;
+    list-style-type: none;
+    display: flex;
+
+}
